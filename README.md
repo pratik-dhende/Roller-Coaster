@@ -1,7 +1,12 @@
 # Roller Coaster
 - A roller coaster simulation using OpenGL
 - The roller coaster is created with Catmull Rom spline and the track is made to extend out along the path of spline
-- The camera is also made to follow along the spline
+- The camera is also made to follow along the spline with physically based movement
+
+**Note**: The code is not disclosed as it was implemented as a part of CSCI 420 Computer Graphics course at the University of Southern California.
+
+## Technological Stack
+`C++ • OpenGL • GLSL`
 
 ## Features
 - Spline
