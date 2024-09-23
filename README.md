@@ -27,4 +27,4 @@
 The application runs at 60 FPS but the below animation is shown at 15 FPS created from recorded screenshots.
 
 [![rollerCoaster](https://github.com/user-attachments/assets/a6a073e2-c2dd-4235-967d-cc6ab46288b1)
-](https://drive.google.com/file/d/1HMeR48-ISlRVDDkDaxQQ80Pq4Lar9HFF/view?usp=sharing)
+](https://drive.google.com/file/d/15gYGRMzlxD52I-ksMdT0jsy8GMdRkLhE/view?usp=sharing)
